@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noah
-- 👀 I’m interested in building awesome stuffs for the web...
-- 🌱 I’m currently sharpening my skills ...
-- 💞️ I’m looking to collaborate on web3...
+- 👀 I’m interested in building awesome stuffs for the web
+- 🌱 I’m currently sharpening my skills
+- 💞️ I’m looking to collaborate on web3
 <!-- - 📫 How to reach me ... -->
 
 <!---
