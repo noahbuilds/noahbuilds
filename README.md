@@ -2,7 +2,7 @@
 
 <br />
 
-A passionate and innovative web developer, bulding ammazing stuffs for the web.
+A passionate and innovative web developer, building amazing stuffs for the web.
 
 - 🔭 I’m working for [Multilent Softwares](http://multilent.com) as a MEAN Developer.
 - 🌱 I’m currently building some MEAN stuffs.
