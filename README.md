@@ -1,6 +1,7 @@
 ### Hi there, I'm [Noah!](https://www.linkedin.com/in/noah-edet) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 <br />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="fit-content">
 
 A passionate and innovative web developer, building amazing stuffs for the web.
 
