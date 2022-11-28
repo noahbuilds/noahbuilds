@@ -19,5 +19,5 @@ A passionate and innovative web developer, building amazing stuffs for the web.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/> </code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"/></code
+<code><img height="20" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"/></code>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noahbuilds&show_icons=true)](https://github.com/noahbuilds/github-readme-stats)
