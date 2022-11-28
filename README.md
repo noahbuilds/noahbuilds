@@ -20,6 +20,9 @@ A passionate and innovative web developer, building amazing stuffs for the web.
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/> </code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"/></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/></code>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noahbuilds&show_icons=true)](https://github.com/noahbuilds/github-readme-stats)
