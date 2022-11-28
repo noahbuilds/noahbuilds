@@ -29,3 +29,4 @@ A passionate and innovative web developer, building amazing stuffs for the web.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noahbuilds&show_icons=true)](https://github.com/noahbuilds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahbuilds&layout=compact)](https://github.com/noahbuilds/github-readme-stats)
