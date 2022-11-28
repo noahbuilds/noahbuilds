@@ -1,8 +1,8 @@
 ### Hi there, I'm [Noah!](https://www.linkedin.com/in/noah-edet) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 <br />
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<img align='right' src="ttps://tenor.com/view/coding-gif-24625099" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 A passionate and innovative web developer, building amazing stuffs for the web.
 
 - 🔭 I’m working for [Multilent Softwares](http://multilent.com) as a MEAN Developer.
