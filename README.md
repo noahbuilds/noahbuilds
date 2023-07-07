@@ -3,10 +3,10 @@
 <br />
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-A passionate and innovative web developer, building amazing stuffs for the web.
+Passionately Crafting Web Wonders, Unleashing Digital Awesomeness!
 
 - 🔭 I’m working for [Multilent Softwares](http://multilent.com) as a Software Developer.
-- 🌱 I’m currently building some MEAN stuffs.
+- 🌱 I’m currently building some MEAN, React native stuffs.
 - 👯 I’m looking to collaborate on some exciting open source projects.
 - 💬 Ask me anything [here](https://github.com/noahbuilds/noahbuilds/issues)
 
