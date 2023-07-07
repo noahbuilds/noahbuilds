@@ -26,6 +26,7 @@ Passionately Crafting Web Wonders, Unleashing Digital Awesomeness!
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"/></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="fire-base"/></code>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noahbuilds&show_icons=true)](https://github.com/noahbuilds/github-readme-stats)
