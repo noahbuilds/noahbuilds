@@ -28,6 +28,7 @@ Passionately Crafting Web Wonders, Unleashing Digital Awesomeness!
 <code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"/></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="fire-base"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws"/></code>
 
 
 
