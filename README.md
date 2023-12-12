@@ -29,6 +29,9 @@ Passionately Crafting Web Wonders, Unleashing Digital Awesomeness!
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="fire-base"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"/></code>
+
 
 
 
